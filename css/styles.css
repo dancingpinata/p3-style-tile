@@ -21,8 +21,29 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: #00010F;
+}
+
+.color-2 {
+	background: #000E96;
+}
+
+.color-3 {
+	background: #0082FF;
+}
+
+.pattern-1 {
+	background: url('../img/BG2x.png');
+}
 
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+/*
+Dark Mint : #00CB73;
+Light Seafoam: #A8F8FF;
+Icy Yellow: #F1FF7A;
+*/
